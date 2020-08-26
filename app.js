@@ -2,7 +2,7 @@ console.log("Javascript ready...");
 
 // ----- Variables -----
 const quoteLength = 128;
-const proxyUrl = "https://cors-anywhere.herokuapp.com";
+const proxyUrl = "https://cors-anywhere.herokuapp.com/";
 const apiURL = "http://api.forismatic.com/api/1.0/?method=getQuote&lang=en&format=json";
 
 // ----- HTML Elements -----
